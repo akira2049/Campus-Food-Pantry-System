@@ -52,5 +52,3 @@ This project demonstrates:
 ## Author
 
 Shahrier Emon Shanto
-Computer Science Student
-Independent University
